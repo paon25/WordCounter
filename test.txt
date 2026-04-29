@@ -1,0 +1,5 @@
+Bonjour je suis un étudiant en informatique
+J'apprends le langage de programmation Java
+Ce programme compte le nombre de mots dans un fichier
+Java est un langage orienté objet très populaire
+Le développement logiciel est une compétence importante
